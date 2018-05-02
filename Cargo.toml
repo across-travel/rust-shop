@@ -1,0 +1,6 @@
+[package]
+name = "rust-shop"
+version = "0.1.0"
+authors = ["li sen"]
+
+[dependencies]
